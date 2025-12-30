@@ -46,11 +46,10 @@ Algerian-Forest-Fire-Regression/
 │   └── Algerian_forest_fires_cleaned_dataset.csv
 │
 ├── notebook/
-│   └── regression_models.ipynb
+│   └── Algerian_forest_fires_model.ipynb
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 
 ```
 ---
